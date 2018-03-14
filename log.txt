@@ -1,0 +1,7 @@
+commit cfed917fc37a6ca22aa9d8609e0378860e593d1c (HEAD -> master, logging)
+Author: dimitrijeski.marko@students.finki.ukim.mk <dimitrijeski.marko@students.finki.ukim.mk>
+Date:   Wed Mar 14 18:58:56 2018 +0100
+
+    Initial commit
+
+
